@@ -6,3 +6,4 @@ def my_func(a, b, c):
 
 nums = input('Введите три числа через пробел: ').split()
 print(my_func(int(nums[0]), int(nums[1]), int(nums[2])))
+
