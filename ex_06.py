@@ -26,5 +26,5 @@ def int_func(word):
     return k_title_str
 
 
-l = input('Введите предложение: ')
+l = input('Введите предложение:  ')
 print(int_func(l))
