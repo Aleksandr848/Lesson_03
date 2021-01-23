@@ -5,3 +5,4 @@ def print_user_data(name, surname, year_of_birth, city, email = 'Нет', phone_
 
 user = print_user_data('Александр', 'Максимов', 1978, 'Livani', 'sm-1@inbox.lv')
 print(user)
+
