@@ -4,6 +4,8 @@ def devision(x, y):
     else:
         z = x / y
         return z
+
+
 dividend = float(input('Введите делимое: '))
 divisor = float(input('Введите делитель: '))
 num = devision(dividend, divisor)
