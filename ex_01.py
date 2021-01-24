@@ -10,3 +10,4 @@ dividend = float(input('Введите делимое: '))
 divisor = float(input('Введите делитель: '))
 num = devision(dividend, divisor)
 print(num)
+

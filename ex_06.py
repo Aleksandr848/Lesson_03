@@ -28,3 +28,4 @@ def int_func(word):
 
 l = input('Введите предложение:  ')
 print(int_func(l))
+
